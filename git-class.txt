@@ -1,0 +1,14 @@
+-----to create branch------
+	git checkout -b subdeveloper
+
+-----to change branch-----
+	git checkout main
+
+-----merge branch-----
+	git merge (branch ko name) subdeveloper
+
+-----shortcut for commit-----
+	gc -m ""
+
+-----check history-----
+	glog
