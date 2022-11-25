@@ -12,3 +12,9 @@
 
 -----check history-----
 	glog
+
+vim login.php
+esc 
+:wq
+
+git branch
